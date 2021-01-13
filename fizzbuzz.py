@@ -1,3 +1,5 @@
+#My fizzbazz solution
+
 def fizzbuzz(x):
 	if x % 15 == 0:
 		return("fizzbuzz")
