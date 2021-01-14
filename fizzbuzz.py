@@ -7,6 +7,8 @@ def fizzbuzz(x):
 		return("fizz")
 	elif x % 5 == 0:
 		return("buzz")
+	else:
+		return(x)
 
 
 
@@ -41,3 +43,8 @@ if test5array.count("buzz") == 6:
 	print("Test5 passed")
 else:
 	print("Test5 failed") 
+
+if fizzbuzz(22) == 22:
+	print("Test6 passed")
+else:
+	print("Test6 failed")
