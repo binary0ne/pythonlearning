@@ -1,2 +1,6 @@
-for x in range(0,100):
-	print(x*x)
+
+x = 2
+y = x
+x += 1
+
+print(str(x) + str(y))
