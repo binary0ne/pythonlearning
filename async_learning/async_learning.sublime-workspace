@@ -1,0 +1,966 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conn",
+				"connected_socket"
+			],
+			[
+				"conne",
+				"connected_socket"
+			],
+			[
+				"forma",
+				"formattedMessage"
+			],
+			[
+				"formatt",
+				"formattedTimeStamp"
+			],
+			[
+				"html",
+				"htmlInsert"
+			],
+			[
+				"messa",
+				"messageField"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"reques",
+				"request"
+			],
+			[
+				"uploa",
+				"uploading_path"
+			],
+			[
+				"MEDI",
+				"MEDIA_URL"
+			],
+			[
+				"curr",
+				"currentInputButton"
+			],
+			[
+				"repla",
+				"replaceChild"
+			],
+			[
+				"curren",
+				"currentInputButton"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"El",
+				"ElementMetric"
+			],
+			[
+				"remo",
+				"removeMetricButton"
+			],
+			[
+				"currne",
+				"currentInputBackup"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"removeMetr",
+				"removeMetricButton"
+			],
+			[
+				"removeM",
+				"removeMetricButton"
+			],
+			[
+				"relatio",
+				"relationId"
+			],
+			[
+				"metricUnits",
+				"metricUnitsList"
+			],
+			[
+				"rela",
+				"relation_object"
+			],
+			[
+				"metri",
+				"metric_input"
+			],
+			[
+				"metric",
+				"metric_type"
+			],
+			[
+				"element",
+				"element_types"
+			],
+			[
+				"elemen",
+				"element_relation_id"
+			],
+			[
+				"remov",
+				"removeRelationButton"
+			],
+			[
+				"reom",
+				"removeChild"
+			],
+			[
+				"currentIn",
+				"currentInput"
+			],
+			[
+				"metricTy",
+				"elementMetricTypeList"
+			],
+			[
+				"save",
+				"saveButton"
+			],
+			[
+				"cu",
+				"currentInputButton"
+			],
+			[
+				"lis",
+				"listenerCancelButton"
+			],
+			[
+				"addRelation",
+				"addRelationInstance"
+			],
+			[
+				"curre",
+				"currentInput"
+			],
+			[
+				"cancel",
+				"cancelButton"
+			],
+			[
+				"currentInp",
+				"currentInputButton"
+			],
+			[
+				"metricLis",
+				"metricListValues"
+			],
+			[
+				"tex",
+				"createTextNode"
+			],
+			[
+				"Text",
+				"createTextNode"
+			],
+			[
+				"newConn",
+				"newConnectedElement"
+			],
+			[
+				"newBut",
+				"newButtonRemove"
+			],
+			[
+				"newButt",
+				"newButtonAddEdit"
+			],
+			[
+				"newEle",
+				"newElementButtons"
+			],
+			[
+				"eleme",
+				"elementName"
+			],
+			[
+				"new_elemen",
+				"new_element_relation"
+			],
+			[
+				"editRela",
+				"editRelationButton"
+			],
+			[
+				"connected",
+				"connected_element"
+			],
+			[
+				"selectPa",
+				"selectPartnerCompany"
+			],
+			[
+				"me",
+				"metric_input"
+			],
+			[
+				"adding",
+				"adding_element_id"
+			],
+			[
+				"listM",
+				"listMetricUnits"
+			],
+			[
+				"listMet",
+				"listMetricType"
+			],
+			[
+				"adding_elemen",
+				"adding_element_id"
+			],
+			[
+				"related",
+				"related_elements"
+			],
+			[
+				"adding_eleme",
+				"adding_element_type"
+			],
+			[
+				"input",
+				"inputMetric"
+			],
+			[
+				"newCo",
+				"newConnectedElement"
+			],
+			[
+				"new",
+				"newP"
+			],
+			[
+				"newConne",
+				"newConnectedCategory"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"unit",
+				"unit_type"
+			],
+			[
+				"relation",
+				"relation_object"
+			],
+			[
+				"rel",
+				"relation_object"
+			],
+			[
+				"metric_type",
+				"metric_type_to_fields"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"list",
+				"list_of_elements_types"
+			],
+			[
+				"disa",
+				"disableAndListen"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"compan",
+				"company_id"
+			],
+			[
+				"ow",
+				"element_owner"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"list_",
+				"list_of_partners"
+			],
+			[
+				"addConn",
+				"addConnectedElementBlock"
+			],
+			[
+				"disable",
+				"disableAndListen"
+			],
+			[
+				"selectM",
+				"selectMetricUnit"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"time",
+				"time_units"
+			],
+			[
+				"array",
+				"arrayOfNames"
+			],
+			[
+				"Chil",
+				"replaceChild"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"element__",
+				"element__element_owner"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"owned",
+				"owned_element"
+			],
+			[
+				"element_",
+				"element_type"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"navi",
+				"navigation_location"
+			],
+			[
+				"contex",
+				"context_processors"
+			],
+			[
+				"na",
+				"navigaton_position"
+			],
+			[
+				"dimension",
+				"dimension_type"
+			],
+			[
+				"lenght",
+				"lenght_type"
+			],
+			[
+				"editDim",
+				"editDimensionX"
+			],
+			[
+				"editD",
+				"editDimensionXButton"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"edit",
+				"editDimensionXButton"
+			],
+			[
+				"spa",
+				"span\tTag"
+			],
+			[
+				"Packa",
+				"PackageValidationForm"
+			],
+			[
+				"nam",
+				"nameRename"
+			],
+			[
+				"getElemen",
+				"getElementById"
+			],
+			[
+				"descri",
+				"descriptionChange"
+			],
+			[
+				"get",
+				"get_element"
+			],
+			[
+				"prod",
+				"product_keys"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"model",
+				"model_to_dict"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"ele",
+				"element_values"
+			],
+			[
+				"elem",
+				"element_id"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"new_",
+				"new_element"
+			],
+			[
+				"create_",
+				"create_element_metric"
+			],
+			[
+				"Batch",
+				"BatchForm"
+			],
+			[
+				"metric_",
+				"metric_unit"
+			],
+			[
+				"metr",
+				"metric_type"
+			],
+			[
+				"Elemen",
+				"ElementRelation"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"ge",
+				"geolocation"
+			],
+			[
+				"user",
+				"user_roles"
+			],
+			[
+				"que",
+				"query_set"
+			],
+			[
+				"sele",
+				"selected_company_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"partne",
+				"partnership"
+			],
+			[
+				"partner",
+				"partnership"
+			],
+			[
+				"partners",
+				"partnerships"
+			],
+			[
+				"partn",
+				"partnership"
+			],
+			[
+				"re",
+				"requesting_company"
+			],
+			[
+				"active",
+				"active_company"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "async_learning.sublime-project",
+			"settings":
+			{
+				"buffer_size": 153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"HexViewer: Export Bin"
+			],
+			[
+				"regreplace",
+				"RegReplace: Create New Regular Expression Rule"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"python",
+			"-help",
+			"--version",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/antonvisnevski/Desktop/code/naval_battle/battle/templates/battle/index.html",
+		"/Users/antonvisnevski/Desktop/code/naval_battle/naval_battle/connection.py",
+		"/Users/antonvisnevski/Desktop/code/glis/supply_chain/views.py",
+		"/Users/antonvisnevski/Desktop/code/glis/supply_chain/templates/supply_chain/js/js_edit_element.js",
+		"/Users/antonvisnevski/Desktop/code/glis/supply_chain/templates/supply_chain/list_companies.html",
+		"/Users/antonvisnevski/Desktop/code/learning_log/learning_logs/views.py",
+		"/Users/antonvisnevski/Desktop/code/learning_log/learning_logs/urls.py",
+		"/Users/antonvisnevski/Desktop/code/learning_log/learning_log/urls.py",
+		"/Users/antonvisnevski/Desktop/code/learning_log/learning_logs/models.py",
+		"/Users/antonvisnevski/Desktop/code/autocad_automatization/temp.json",
+		"/Users/antonvisnevski/Desktop/code/autocad_automatization/untitled.sublime-project",
+		"/Users/antonvisnevski/Desktop/code/alien_invaders/alien_invaders.sublime-workspace",
+		"/Users/antonvisnevski/Desktop/code/autocad_automatization/sample_data.csv",
+		"/Users/antonvisnevski/Desktop/code/autocad_automatization/sample_data2.csv",
+		"/Users/antonvisnevski/Downloads/2_КАВ20А_испо_recover.csv",
+		"/Users/antonvisnevski/Desktop/code/neural_network/retrogramm.log",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/test2.py",
+		"/Users/antonvisnevski/Desktop/code/neural_network/debug.log",
+		"/Users/antonvisnevski/Desktop/code/neural_network/neuron.py",
+		"/Users/antonvisnevski/Desktop/code/neural_network/main.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/tests/name_function.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/tests/names.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/tests/test_name_function.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/number_writer.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/number_reader.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/numbers.json",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_6.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/classes_1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/file_reader.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/writing_message.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/division.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/programming.txt",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/exceptions/pi_digits.txt",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_7-8.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/functions_1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_10.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_9.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_8.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_7-5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_6.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_7-4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/while_1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/fizzbuzz.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/input_5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/input_4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_6-11.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/input_1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/input_2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/input_3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/guessinggame.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/listsOOP.py",
+		"/Users/antonvisnevski/Library/Application Support/Sublime Text 3/Packages/User/Python-terminal.sublime-build",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_6-9.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_6-8.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/nesting_3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_6.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries6-5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/dictionaries_7.py",
+		"/Users/antonvisnevski/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/antonvisnevski/Library/Application Support/Sublime Text 3/Packages/User/python3.9.sublime-build",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements8.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/teststuff1.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements7.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements6.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements5.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements3.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/ifstatements.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/tuples.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists_part2.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists_part.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists4.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/workingwithlists.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/range.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists3-4-5-6.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/numbers.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/hello_world.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/name.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/apostrophe.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists.py",
+		"/Users/antonvisnevski/Desktop/code/pythonlearning/lists2.py",
+		"/Users/antonvisnevski/Desktop/code/method1rehexed.bat",
+		"/Users/antonvisnevski/Desktop/code/FirstMethod.hxv",
+		"/Users/antonvisnevski/Desktop/code/handmadesteam.bat",
+		"/Users/antonvisnevski/Desktop/code/ssfn_GFNTools (2).bat",
+		"/Users/antonvisnevski/Desktop/code/ssfn_GFNTools",
+		"/Users/antonvisnevski/Desktop/code/obfuscator.bat",
+		"/Users/antonvisnevski/Desktop/code/presed.bat",
+		"/Users/antonvisnevski/Desktop/code/postprocessed.bat",
+		"/Users/antonvisnevski/Desktop/code/ssfn_GFNToolsv2",
+		"/Users/antonvisnevski/Desktop/code/untitled.hxv",
+		"/Users/antonvisnevski/Desktop/code/ssfn_GFNTools.txt",
+		"/Users/antonvisnevski/Desktop/code/asdasd",
+		"/Users/antonvisnevski/Desktop/code/input.txt",
+		"/Users/antonvisnevski/Desktop/code/process.bat",
+		"/Users/antonvisnevski/Downloads/ssfn_CloudForce.bat",
+		"/Users/antonvisnevski/Downloads/ssfn_GFNTools (1).bat",
+		"/Users/antonvisnevski/Downloads/batch_deobfuscator-master/ssfn_CloudForce.bat",
+		"/Users/antonvisnevski/Downloads/batch_deobfuscator-master/batch_interpreter.py",
+		"/Users/antonvisnevski/Downloads/ssfn_GFNTools (2).bat"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "async_learning.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.reg_replace":
+	{
+		"height": 442.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "async_learning.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
